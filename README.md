@@ -191,7 +191,7 @@ In order to save time and give a faster response, please consider the following 
 
 **Demo images**
 
-- [uiFaces](http://uifaces.com/)  
+- [uiFaces](https://uifaces.co/)  
 - [Raumrot](http://www.raumrot.com/10/)  
 - [Unsplash](http://unsplash.com)
 
