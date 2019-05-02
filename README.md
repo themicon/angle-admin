@@ -28,6 +28,19 @@ See next a list of main features of each version:
 
 ---
 
+## Next.js version (Server-Side Rendering)
+
+- Bootstrap 4 by react-strap
+- Create-next-app
+- **Serverless** ready
+- **Now** deployments support
+- Next router with params support
+- **REDUX** state manager
+- Component state form validation
+- Custom made Translation module
+- No jQuery (only required if using jQuery plugins)
+- *RTL coming soon*
+
 ## Angular version
 
 - Angular 7
@@ -57,6 +70,8 @@ See next a list of main features of each version:
 
 - Bootstrap 4 by react-strap
 - React-create-app v2
+- Lazy load with **Suspense**
+- **REDUX** state manager
 - JSX (es6) and SASS (scss)
 - Stateless/full components
 - Component state form validation
@@ -88,7 +103,7 @@ See next a list of main features of each version:
 - No jQuery (only required if using jQuery plugins)
 - RTL (node rtlcss)
 
-## ASP.NET Core 2.1 + Angular version
+## ASP.NET Core 2.2 + Angular version
 
 - Angular 7
 - Bootstrap 4 by ngx-bootstrap
@@ -111,7 +126,7 @@ See next a list of main features of each version:
 - No jQuery (only required if using jQuery plugins)
 - NPM package manager
 
-## ASP.NET Core 2.1 version
+## ASP.NET Core 2.2 version
 
 - Bootstrap 4 (official)
 - Gulp based build system
@@ -164,7 +179,7 @@ Everything you see in demo and more is included in the package. The source code 
 
 After purchase get updates for free! 
 
-Re-download the latest version via [Download Resender](https://wrapbootstrap.com/support/download-resender?ref=themicon)
+To Re-download the latest version via [Concat Support](https://wrapbootstrap.com/support?ref=themicon)
 
 ### Requesting support 
 
