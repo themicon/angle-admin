@@ -1,0 +1,19 @@
+{
+  "name": "@themicon/angle",
+  "version": "4.3",
+  "description": "Bootstrap Admin Template",
+  "main": "README.md",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themicon/angle.git"
+  },
+  "keywords": [],
+  "author": "@themicon",
+  "license": "http://support.wrapbootstrap.com/knowledge_base/topics/usage-licenses",
+  "bugs": {
+    "url": "https://github.com/themicon/angle/issues"
+  },
+  "homepage": "http://themicon.co"
+}
